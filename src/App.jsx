@@ -48,6 +48,7 @@ function App() {
       </main>
     )
   }
+
   return (
     <main>
       <Tours tours = {tours} removeTour={removeTour}/>
